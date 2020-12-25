@@ -1,0 +1,10 @@
+(on |by |and )?click on (the|this) image( )?(for|to)?[a-z0-9 ]*$
+the image (file |http )?can not be displayed because it contains errors
+gif ([a-z0-9]*)?( )?gifs
+^[a-z ]*(screenshot|representation|graphic|image|gif|animation|clip|drawing|figure|video|illustration|picture)s? (of|from|showing|shows|demonstrating|depicting|featuring|explaining|detailing|about|features)
+^happy halloween[a-z ]*gifs?
+^halloween[a-z ]*gifs?
+by[a-z ]*on (dribbble|deviantart)$
+(on )?reddit[a-z ]*$
+in this[a-z ]*gifs? by[a-z ]*$
+gifs? by[a-z ]*$

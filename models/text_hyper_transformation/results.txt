@@ -1,0 +1,20 @@
+Alt-text:	harrison ford and calista flockhart attend the premiere of homicide at the american film festival september in deauville france
+Paper:	actors attend the premiere at festival.
+Ours:	people attend the premiere of homicide at the festival
+
+Alt-text:	side view of a british airways airbus aircraft on approach to land with landing gear down
+Paper:	side view of an aircraft on approach to land with landing gear down
+Ours:	view of a aircraft on approach to land with gear down
+
+Alt-text:	two sculptures by artist duncan mckellar adorn trees outside the derelict norwich union offices in bristol uk
+Paper:	sculptures by person adorn trees outside the derelict offices
+Ours:	sculptures by person adorn trees outside the offices
+
+Alt-text:	a pakistani worker helps to clear the debris from the taj mahal hotel november in balakot pakistan
+Paper:	a worker helps to clear the debris.
+Ours:	a worker helps to clear the debris from the hotel
+
+Alt-text:	musician justin timberlake performs at the pilgrimage music cultural festival on september in franklin tennessee
+Paper:	pop artist performs at the festival in a city.
+Ours:	person performs at the festival
+

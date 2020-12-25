@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyc
+__pycache__/
+
+alt/*
+!.gitkeep
+
+result/*
+!.gitkeep
+
+cache/
+.vscode
+*.pkl
+.vs
+
+tools/result_analysis/compare_results/
