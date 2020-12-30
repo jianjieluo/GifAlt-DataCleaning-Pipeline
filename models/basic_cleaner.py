@@ -52,6 +52,10 @@ class BasicCleaner(object):
         for word in self.blacklist_url:
             if word in url:
                 return False
+        # not contain \n \r in url
+        if not re.search(r"(\n|\r)", url) is None:
+            return False
+            
         return True
 
     def complete_url(self, url):

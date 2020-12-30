@@ -38,6 +38,7 @@ def sub_process(wid, infile, outfile, total):
             title = row['title'].strip().lower()
             alt = row['alt'].strip().lower()
 
+            gifUrl = gifUrl.strip()
             gifUrl_lower = gifUrl.lower()
             if cleaner.check_url(gifUrl_lower) == False:
                 continue
